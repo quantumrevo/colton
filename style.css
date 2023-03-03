@@ -1,0 +1,75 @@
+/* Reset styles */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Global styles */
+  body {
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+  }
+  
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  header {
+    background-color: #fff;
+    padding: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+  }
+  
+  nav ul {
+    display: flex;
+  }
+  
+  nav li + li {
+    margin-left: 2rem;
+  }
+  
+  nav a {
+    font-weight: bold;
+  }
+  
+  main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  
+  .hero {
+    text-align: center;
+    padding: 6rem 0;
+    background-image: url('https://source.unsplash.com/random/1600x900%27);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+  }
+  
+  .hero h2 {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+  }
+  
+  .hero p {
+    font-size: 1.5rem;
+    margin-bottom: 3rem;
+  }
+  
+  .btn {
+    display:
+  Image
+  }
