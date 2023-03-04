@@ -69,7 +69,7 @@
     margin-bottom: 3rem;
   }
 
-  .button {
+  button {
     display: inline-block;
     padding: 10px 20 px;
     background-color: black;
